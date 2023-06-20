@@ -1,6 +1,7 @@
 # xo1337-driver
 leaked his detected ass driver lmao
 
+for those who dont understand why i did that: he sold a driver source with communication claiming its ud for a hunnie
 
 excuse me xo?
 
