@@ -1,5 +1,5 @@
 # xo1337-driver
-[outdated (fix pattern to make it work again)]
+## [outdated (fix pattern to make it work again)]
 
 leaked his detected ass driver lmao
 
