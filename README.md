@@ -1,9 +1,10 @@
 # xo1337-driver
-## [outdated (fix pattern to make it work again)]
+## [outdated, fix pattern to make it work again]
 
-leaked his detected ass driver lmao
+leaked his detected driver
 
-for those who dont understand why i did that: he sold a driver source with communication claiming its ud for a hunnie
+for those who dont understand why i decided to leak his source:
+he sold a driver source with communication claiming its ud for a hunnie
 
 excuse me xo?
 
